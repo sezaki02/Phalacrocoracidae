@@ -1,0 +1,13 @@
+baseURL = 'https://sezaki02.github.io/Phalacrocoracidae/'
+languageCode = 'ja'
+title = 'Phalacrocorax'
+publishDir = "docs"
+canonifyurls = true
+theme = 'holy'
+
+
+[menu]
+ [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 10
