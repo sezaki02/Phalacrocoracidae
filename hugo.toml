@@ -1,6 +1,6 @@
 baseURL = 'https://sezaki02.github.io/Phalacrocoracidae/'
 languageCode = 'ja'
-title = 'Phalacrocorax'
+title = 'Sticky was half-cut.'
 publishDir = "docs"
 canonifyurls = true
 theme = 'holy'
